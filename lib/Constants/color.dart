@@ -1,0 +1,26 @@
+import 'package:flutter/material.dart';
+
+List<Color> circleColors = [
+  Colors.deepPurple,
+  Colors.deepOrange,
+  Colors.deepOrangeAccent,
+  Colors.deepPurpleAccent,
+  Colors.blue,
+  Colors.teal,
+  Colors.yellow,
+  Colors.lightGreen,
+  Colors.lightBlue,
+  Colors.indigo,
+  Colors.orange,
+  Colors.pink,
+  Colors.lightBlue,
+  Colors.indigo,
+  Colors.orange,
+  Colors.pink,
+  Colors.deepPurpleAccent,
+  Colors.blue,
+  Colors.teal,
+  Colors.yellow,
+  Colors.lightGreen,
+  Colors.lightBlue,
+];
